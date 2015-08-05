@@ -184,6 +184,9 @@ header {
     background-size: cover;
     -o-background-size: cover;
 }
+.bg_image_header{
+    width: 100%;
+}
 
 header .header-content {
     position: relative;
